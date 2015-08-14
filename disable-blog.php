@@ -13,7 +13,7 @@
  * @package 	Disable_Blog
  * @category 	Core
  * @author 		Joshua David Nelson
- * @version 	0.3.1
+ * @version 	0.3.2
  * @license 	http://www.gnu.org/licenses/gpl-2.0.html GPLv2.0+
  */
 
